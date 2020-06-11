@@ -1,0 +1,79 @@
+div[num="1"][class="claim style-scope patent-text"]
+ {
+	position: fixed!important;
+	top: 0;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+	font-weight: 900!important;
+	border: 3px solid #73AD21;
+	overflow-y:scroll;
+    overflow-x:hidden;   
+}
+
+div[num="01"][class="claim style-scope patent-text"] {
+	position: fixed!important;
+	top: 0;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+	font-weight: 900!important;
+	border: 3px solid #73AD21;
+	overflow-y:scroll;
+    overflow-x:hidden;    
+}
+div[num="001"][class="claim style-scope patent-text"] {
+	position: fixed!important;
+	top: 0;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+	font-weight: 900!important;
+	border: 3px solid #73AD21;
+	overflow-y:scroll;
+    overflow-x:hidden;    
+}
+div[num="0001"][class="claim style-scope patent-text"] {
+	position: fixed!important;
+	top: 0;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+	font-weight: 900!important;
+	border: 3px solid #73AD21;
+	overflow-y:scroll;
+    overflow-x:hidden;   
+}
+div[num="00001"][class="claim style-scope patent-text"] {
+	position: fixed!important;
+	top: 0;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+	font-weight: 900!important;
+	border: 3px solid #73AD21;
+	overflow-y:scroll;
+    overflow-x:hidden;    
+}
+div[num="000001"][class="claim style-scope patent-text"] {
+	position: fixed!important;
+	top: 0;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+	font-weight: 900!important;
+	border: 3px solid #73AD21;
+	overflow-y:scroll;
+    overflow-x:hidden;    
+}
+div[num="0000001"][class="claim style-scope patent-text"] {
+	position: fixed!important;
+	top: 0;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+	font-weight: 900!important;
+	border: 3px solid #73AD21;
+	overflow-y:scroll;
+    overflow-x:hidden;    
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Credit:Senti143",
+  "description": "Make first claim sticky in patents.google.com",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["https://patents.google.com/patent/*"],
+      "css": ["sheet.css"]
+    }
+  ],
+  "manifest_version": 2
+}
